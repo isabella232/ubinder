@@ -37,3 +37,4 @@ yarn.lock
 /build-android
 .idea/
 cmake-build-debug/
+**/generated
