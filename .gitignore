@@ -35,3 +35,5 @@ build/
 yarn.lock
 *.dll
 /build-android
+.idea/
+cmake-build-debug/
